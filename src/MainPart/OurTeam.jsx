@@ -35,11 +35,15 @@ import i18 from "../assets/Satayu Travadi -CSPIT ME.jpg";
 
 
 import im1 from "../assets/Dhruv EC.png";
-import im2 from "../assets/BANSI.png";
-import im3 from "../assets/Dhruvi.jpg";
-import im4 from "../assets/Dhruvin.png";
-import im5 from "../assets/Disha.jpg";
-import im6 from "../assets/Nemish.jpg";
+import im2 from "../assets/Diya.png";
+import im3 from "../assets/AARTI.png";
+import im4 from "../assets/JASH.png";
+import im5 from "../assets/Heet.jpg";
+import im6 from "../assets/Chesta.jpg";
+import im7 from "../assets/Utsav.jpg";
+import im8 from "../assets/PARV.png";
+// import im9 from "../assets/PARV.png";
+
 
 
 
@@ -62,185 +66,181 @@ const coordinators = [
     image: im1,
   },
   {
-    name: "Ms. Yukta Parmar",
-    role: "MTIN",
+    name: "Ms. Diya Thakkar",
+    role: "CSPIT-EC",
     image: im2,
   },
-  {
-    name: "Ms. Saloni Patel",
-    role: "ARIP",
-    image: im3,
-  },
+
   {
     name: "Ms. Aarti Jain",
     role: "CSPIT-CE",
-    image: im4,
+    image: im3,
   },
   {
     name: "Mr. Jash Bhungaliya",
     role: "CSPIT-ME",
-    image: im5,
-  },
-  {
-    name: "Ms. Priyanshi Jariwala",
-    role: "RPCP",
-    image: im6,
-  },
-  {
-    name: "Mr. Dhruv Ghelani",
-    role: "RPCP",
-    image: im1,
-  },
-  {
-    name: "Ms. Dhanshree Rmani",
-    role: "IIIM",
-    image: im2,
-  },
-  {
-    name: "Mr. Arya Kayastha",
-    role: "CSPIT-CE",
-    image: im3,
-  },
-  {
-    name: "Mr. Jay Rohit",
-    role: "ARIP",
     image: im4,
   },
   {
+    name: "Mr. Heet Vithalani",
+    role: "DEPSTAR-CE",
+    image: im5,
+  },
+  {
+    name: "Ms. Chesta Ginoya",
+    role: "DEPSTAR-CE",
+    image: im6,
+  },
+    {
     name: "Mr. Utsav Lodaliya",
     role: "CMPICA",
-    image: im5,
+    image: im7,
   },
-  {
-    name: "Mr. Nemish Sapara",
-    role: "CSPIT-AIML",
-    image: im6,
-  },
-  {
-    name: "Mr. Kaushal Savaliya",
-    role: "CSPIT-AIML",
-    image: im1,
-  },
-  {
-    name: "Mr. Dhruv Prajapati",
-    role: "CSPIT-IT",
-    image: im2,
-  },
-  {
-    name: "Ms. Soha Vohra",
-    role: "CSPIT-Civil",
-    image: im3,
-  },
-  {
-    name: "Ms. Yashvi Patel",
-    role: "DEPSTAR-CE",
-    image: im4,
-  },
-  {
-    name: "Ms. Diya Thakkar",
-    role: "CSPIT-EC",
-    image: im5,
-  },
-  {
+    {
     name: "Mr. Parv Chittora",
     role: "PDPIAS",
-    image: im6,
+    image: im8,
   },
-  {
-    name: "Ms. Nency Patel",
-    role: "BDIPS",
-    image: im1,
-  },
-  {
-    name: "Mr. Prem Koradiya",
-    role: "BDIPS",
-    image: im2,
-  },
-  {
-    name: "Mr. Maharshi Patel",
-    role: "DEPSTAR-CE",
-    image: im3,
-  },
-  {
-    name: "Ms. Parin Desai",
-    role: "CSPIT-EE",
-    image: im4,
-  },
-  {
-    name: "Ms. Bansi Kanani",
-    role: "DEPSTAR-IT",
-    image: im5,
-  },
-  {
-    name: "Mr. Dhruvin Mangukiya",
-    role: "DEPSTAR-CSE",
-    image: im6,
-  },
-  {
-    name: "Mr. Preet Chauhan",
-    role: "DEPSTAR-IT",
-    image: im1,
-  },
-  {
-    name: "Mr. Mayur Maheshwari",
-    role: "MTIN",
-    image: im2,
-  },
-  {
-    name: "Ms. Bansari Patel",
-    role: "CSMPICA",
-    image: im3,
-  },
-  {
-    name: "Mr. Jayraj Rathod",
-    role: "CSPIT-ME",
-    image: im4,
-  },
-  {
-    name: "Mr. Rushiprakash Patel",
-    role: "IIIM",
-    image: im5,
-  },
-  {
-    name: "Ms. Keshar Patel",
-    role: "PDPIS",
-    image: im6,
-  },
-  {
-    name: "Ms. Yukti Goyani",
-    role: "CSPIT-EE",
-    image: im1,
-  },
-  {
-    name: "Mr. Darsh Patel",
-    role: "CSPIT-CSE",
-    image: im2,
-  },
-  {
-    name: "Mr. Manan Monani",
-    role: "DEPSTAR-CSE",
-    image: im3,
-  },
-  {
-    name: "Ms. Azba Vohra",
-    role: "CSPIT-Civil",
-    image: im4,
-  },
-  {
-    name: "Ms. Ridhdhi Ramanuj",
-    role: "CSPIT-CE",
-    image: im5,
-  },
-  {
-    name: "Ms. Disha Shah",
-    role: "CSPIT-IT",
-    image: im6,
-  },
-  {
-    name: "Ms. Dhruvi Mahale",
-    role: "CSPIT-CSE",
-    image: im6,
-  },
+
+ 
+  // {
+  //   name: "Ms. Saloni Patel",
+  //   role: "ARIP",
+  //   image: im3,
+  // },
+  // {
+  //   name: "Mr. Arya Kayastha",
+  //   role: "CSPIT-CE",
+  //   image: im3,
+  // },
+  // {
+  //   name: "Mr. Jay Rohit",
+  //   role: "ARIP",
+  //   image: im4,
+  // },
+
+  // {
+  //   name: "Mr. Nemish Sapara",
+  //   role: "CSPIT-AIML",
+  //   image: im6,
+  // },
+  // {
+  //   name: "Mr. Kaushal Savaliya",
+  //   role: "CSPIT-AIML",
+  //   image: im1,
+  // },
+  // {
+  //   name: "Mr. Dhruv Prajapati",
+  //   role: "CSPIT-IT",
+  //   image: im2,
+  // },
+  // {
+  //   name: "Ms. Soha Vohra",
+  //   role: "CSPIT-Civil",
+  //   image: im3,
+  // },
+  // {
+  //   name: "Ms. Yashvi Patel",
+  //   role: "DEPSTAR-CE",
+  //   image: im4,
+  // },
+  // {
+  //   name: "Ms. Diya Thakkar",
+  //   role: "CSPIT-EC",
+  //   image: im5,
+  // },
+
+  // {
+  //   name: "Ms. Nency Patel",
+  //   role: "BDIPS",
+  //   image: im1,
+  // },
+  // {
+  //   name: "Mr. Prem Koradiya",
+  //   role: "BDIPS",
+  //   image: im2,
+  // },
+  // {
+  //   name: "Mr. Maharshi Patel",
+  //   role: "DEPSTAR-CE",
+  //   image: im3,
+  // },
+  // {
+  //   name: "Ms. Parin Desai",
+  //   role: "CSPIT-EE",
+  //   image: im4,
+  // },
+  // {
+  //   name: "Ms. Bansi Kanani",
+  //   role: "DEPSTAR-IT",
+  //   image: im5,
+  // },
+  // {
+  //   name: "Mr. Dhruvin Mangukiya",
+  //   role: "DEPSTAR-CSE",
+  //   image: im6,
+  // },
+  // {
+  //   name: "Mr. Preet Chauhan",
+  //   role: "DEPSTAR-IT",
+  //   image: im1,
+  // },
+  // {
+  //   name: "Mr. Mayur Maheshwari",
+  //   role: "MTIN",
+  //   image: im2,
+  // },
+  // {
+  //   name: "Ms. Bansari Patel",
+  //   role: "CSMPICA",
+  //   image: im3,
+  // },
+  // {
+  //   name: "Mr. Jayraj Rathod",
+  //   role: "CSPIT-ME",
+  //   image: im4,
+  // },
+
+  // {
+  //   name: "Ms. Keshar Patel",
+  //   role: "PDPIS",
+  //   image: im6,
+  // },
+  // {
+  //   name: "Ms. Yukti Goyani",
+  //   role: "CSPIT-EE",
+  //   image: im1,
+  // },
+  // {
+  //   name: "Mr. Darsh Patel",
+  //   role: "CSPIT-CSE",
+  //   image: im2,
+  // },
+  // {
+  //   name: "Mr. Manan Monani",
+  //   role: "DEPSTAR-CSE",
+  //   image: im3,
+  // },
+  // {
+  //   name: "Ms. Azba Vohra",
+  //   role: "CSPIT-Civil",
+  //   image: im4,
+  // },
+  // {
+  //   name: "Ms. Ridhdhi Ramanuj",
+  //   role: "CSPIT-CE",
+  //   image: im5,
+  // },
+  // {
+  //   name: "Ms. Disha Shah",
+  //   role: "CSPIT-IT",
+  //   image: im6,
+  // },
+  // {
+  //   name: "Ms. Dhruvi Mahale",
+  //   role: "CSPIT-CSE",
+  //   image: im6,
+  // },
   // Add more coordinators here
 ];
 
